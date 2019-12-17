@@ -1,3 +1,3 @@
-# Experiments with Linear Regressione and Gradient Descent
+# Experiments with Linear Regression and Gradient Descent
 
 Just some fun with different methods
