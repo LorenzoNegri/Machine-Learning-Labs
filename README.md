@@ -1,2 +1,2 @@
 # Machine Learning Labs & Case Studies
-Machine Learning experiments, examples and labs
+Machine Learning case studies, experiments, examples and labs
